@@ -73,6 +73,59 @@
 <font NAME="Trebuchet MS" SIZE="14"/>
 </node>
 </node>
+<node CREATED="1605566052705" ID="ID_893468954" MODIFIED="1605568379007" TEXT="manage users">
+<font NAME="Trebuchet MS" SIZE="14"/>
+<node CREATED="1605566060532" ID="ID_1776530814" MODIFIED="1605568379006" TEXT="add users and download credentials, needed">
+<font NAME="Trebuchet MS" SIZE="14"/>
+</node>
+</node>
+<node CREATED="1605566207102" ID="ID_481313434" MODIFIED="1605568379007" TEXT="account setting">
+<font NAME="Trebuchet MS" SIZE="14"/>
+<node CREATED="1605566214507" ID="ID_243006595" MODIFIED="1605568379001" TEXT="you can define policies to pass">
+<font NAME="Trebuchet MS" SIZE="14"/>
+<node CREATED="1605566232324" ID="ID_10501277" MODIFIED="1605568379006" TEXT="least the characters">
+<font NAME="Trebuchet MS" SIZE="14"/>
+</node>
+<node CREATED="1605566254811" ID="ID_402773970" MODIFIED="1605568379006" TEXT="expiration time">
+<font NAME="Trebuchet MS" SIZE="14"/>
+</node>
+<node CREATED="1605566260153" ID="ID_1023051923" MODIFIED="1605568379006" TEXT="owasp rules to be simple">
+<font NAME="Trebuchet MS" SIZE="14"/>
+</node>
+</node>
+</node>
+<node CREATED="1605568358024" ID="ID_439742155" MODIFIED="1605568379007" TEXT="working with roles">
+<font NAME="Trebuchet MS" SIZE="14"/>
+</node>
+</node>
+<node CREATED="1605570087777" ID="ID_1992580340" MODIFIED="1605571085930" POSITION="right" TEXT="S3">
+<font NAME="Trebuchet MS" SIZE="14"/>
+<node CREATED="1605570093607" ID="ID_1795913499" MODIFIED="1605571085933" TEXT="store objects">
+<font NAME="Trebuchet MS" SIZE="14"/>
+<node CREATED="1605570147775" ID="ID_573104578" MODIFIED="1605571085933" TEXT="keys">
+<font NAME="Trebuchet MS" SIZE="14"/>
+<node CREATED="1605570153053" ID="ID_436814847" MODIFIED="1605571085933" TEXT="folder and file">
+<font NAME="Trebuchet MS" SIZE="14"/>
+</node>
+</node>
+</node>
+<node CREATED="1605570100716" ID="ID_121754340" MODIFIED="1605571085933" TEXT="store objects in buckets">
+<font NAME="Trebuchet MS" SIZE="14"/>
+</node>
+<node CREATED="1605570184239" ID="ID_186047265" MODIFIED="1605571085933" TEXT="regional with vision global">
+<font NAME="Trebuchet MS" SIZE="14"/>
+</node>
+<node CREATED="1605570264676" ID="ID_1649216605" MODIFIED="1605571085933" TEXT="class">
+<font NAME="Trebuchet MS" SIZE="14"/>
+<node CREATED="1605570268406" ID="ID_1201532153" MODIFIED="1605571085933" TEXT="the price change">
+<font NAME="Trebuchet MS" SIZE="14"/>
+</node>
+</node>
+<node CREATED="1605571073592" ID="ID_1343102932" MODIFIED="1605571085933" TEXT="blocked all public access">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1605571446491" ID="ID_1149765095" MODIFIED="1605571453133" TEXT="policies in json format"/>
+<node CREATED="1605571454392" ID="ID_1715325354" MODIFIED="1605571474856" TEXT="to resource be public the bucket must be public"/>
 </node>
 </node>
 </map>
